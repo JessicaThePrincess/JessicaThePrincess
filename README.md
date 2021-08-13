@@ -8,14 +8,14 @@
 ### Socials
 - All of my socials can be found on my keybase
 
-[<img align="left" alt="Keybase" width="22px" src="../blob/main/assets/keybase.png" />][keybase]
+[<img align="left" alt="Keybase" width="22px" src="https://github.com/JessicaThePrincess/JessicaThePrincess/tree/master/assets/keybase.php" />][keybase]
 
 <br />
 
 ### Projects
 
-[<img align="left" alt="JavaScript" width="26px" src="../blob/main/assets/javascript.js" />][jsprojects]
-[<img align="left" alt="PHP" width="26px" src="../blob/main/assets/php.js" />][phpprojects]
+[<img align="left" alt="JavaScript" width="26px" src="https://github.com/JessicaThePrincess/JessicaThePrincess/tree/master/assets/javascript.js" />][jsprojects]
+[<img align="left" alt="PHP" width="26px" src="https://github.com/JessicaThePrincess/JessicaThePrincess/tree/master/assets/php.js" />][phpprojects]
 
 <br />
 <br />
