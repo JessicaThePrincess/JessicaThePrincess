@@ -6,7 +6,6 @@
 - Me
 
 ### Socials
-- All of my socials can be found on my keybase
 
 [<img align="left" alt="Keybase" width="22px" src="https://github.com/JessicaThePrincess/JessicaThePrincess/tree/master/assets/keybase.js" />][keybase]
 
