@@ -19,6 +19,6 @@
 <br />
 <br />
 
-[twitter]: https://keybase.io/fulltimewife
+[keybase]: https://keybase.io/fulltimewife
 [phpprojects]: https://dev.azure.com/maximilianjunhuber/Cartel
 [jsprojects]: https://github.com/HeadpatGang
