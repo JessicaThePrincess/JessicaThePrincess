@@ -15,11 +15,9 @@
 ### Projects
 
 [<img align="left" alt="JavaScript" width="26px" src="https://github.com/JessicaThePrincess/JessicaThePrincess/blob/master/assets/javascript.png" />][jsprojects]
-[<img align="left" alt="PHP" width="26px" src="https://github.com/JessicaThePrincess/JessicaThePrincess/blob/master/assets/php.png" />][phpprojects]
 
 <br />
 <br />
 
 [keybase]: https://keybase.io/fulltimewife
-[phpprojects]: https://dev.azure.com/maximilianjunhuber/Cartel
 [jsprojects]: https://github.com/HeadpatGang
