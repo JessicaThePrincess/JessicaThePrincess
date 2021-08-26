@@ -1,9 +1,9 @@
 ### Hello
 
 ## Stuff about Me
-- Stuff
-- About
-- Me
+- Big dumb idiot who enjoys self-teaching myself programming
+- Enjoyer of fennec foxes & red pandas
+- Feel free to add me on keybase & we can chat! 
 
 ### Socials
 
