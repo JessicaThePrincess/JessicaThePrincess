@@ -3,7 +3,8 @@
 ## Stuff about Me
 - Big dumb idiot who enjoys self-teaching myself programming
 - Enjoyer of fennec foxes & red pandas
-- Feel free to add me on keybase & we can chat! 
+- Avid enjoyer of spreadsheets & all things data
+- Feel free to add me on keybase & we can chat
 
 ### Socials
 
